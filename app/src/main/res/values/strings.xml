@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">دوستۇم</string>
+    <string name="language_chinese">中文</string>
+    <string name="language_uyghur">ئۇيغۇرچە</string>
+    <string name="translator">翻译家</string>
+    <string name="chat_assistant">聊天助手</string>
+    <string name="agreement_text">安全使用协议内容…</string>
+    <string name="title_chat">聊天</string>
+    <string name="title_me">我的</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دوستۇم</string>
+    <string name="language_chinese">جۇڭگو</string>
+    <string name="language_uyghur">ئۇيغۇرچە</string>
+    <string name="translator">تەرجىمان</string>
+    <string name="chat_assistant">سۆھبەت ياردەمچىسى</string>
+    <string name="agreement_text">بىخەتەرلىك كېلىشىم مەزمۇنى…</string>
+    <string name="title_chat">سۆھبەت</string>
+    <string name="title_me">مېنىڭ</string>
+</resources>
